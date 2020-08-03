@@ -1,4 +1,4 @@
-# Query RACMO cell value given a coordinate / shapefile
+# Query RACMO cell value given a coordinate / Bounding box / shapefile 
 
 
 More information on ```https://www.projects.science.uu.nl/iceclimate/models/racmo.php```
@@ -14,10 +14,12 @@ matplotlib<br>
 
 
 ## Usage
+To use Volume_RACMO_Pt_Query<br>, input a coordinate 
 Change 
 ```python
 aoi_lon
 aoi_lat
 
 ```
-
+To use Volume_RACMO_Bbox_Query<br>
+Input a Bounding box as a shapefile
