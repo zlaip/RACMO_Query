@@ -14,7 +14,7 @@ matplotlib<br>
 
 
 ## Usage
-To use Volume_RACMO_Pt_Query<br>, input a coordinate 
+To use Volume_RACMO_Pt_Query<br> Input a coordinate <br>
 Change 
 ```python
 aoi_lon
