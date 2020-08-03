@@ -1,4 +1,4 @@
-# Query RACMO cell value given a coordinate / shape file
+# Query RACMO cell value given a coordinate / shapefile
 
 
 More information on ```https://www.projects.science.uu.nl/iceclimate/models/racmo.php```
@@ -6,9 +6,11 @@ More information on ```https://www.projects.science.uu.nl/iceclimate/models/racm
 
 ## Requirement
 
-xarray
-cartopy
-matplotlib
+python>3.4<br>
+xarray<br>
+cartopy<br>
+matplotlib<br>
+
 
 
 ## Usage
