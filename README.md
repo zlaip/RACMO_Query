@@ -10,7 +10,9 @@ python>3.4<br>
 xarray<br>
 cartopy<br>
 matplotlib<br>
-Regionmask<br>
+numpy<br>
+pandas<br>
+regionmask<br>
 
 ## Usage
 To use **Volume_RACMO_Pt_Query**<br> Input a coordinate <br>
