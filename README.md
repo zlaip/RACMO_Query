@@ -17,12 +17,10 @@ regionmask<br>
 ## Usage
 To use **Volume_RACMO_Pt_Query**<br> Input a coordinate <br>
 Change 
-```python
-aoi_lon
-aoi_lat
+```aoi_lon```
+```aoi_lat```
 
-```
-If you shapefile is smaller than one grid cell, (approximately 27km * 27km) use **Volume_RACMO_Pt_Query** instead.
+If your shapefile is smaller than one grid cell, (approximately 27km * 27km) use **Volume_RACMO_Pt_Query** instead. 
 
 To use **Volume_RACMO_Bbox_Query**<br>
 Input a Bounding box to ```aoi_shp```as a shapefile. *WAIS_bbox.shp* was used for demo.<br>
