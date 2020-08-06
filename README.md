@@ -22,8 +22,10 @@ aoi_lon
 aoi_lat
 
 ```
+If you shapefile is smaller than one grid cell, (approximately 27km * 27km) use **Volume_RACMO_Pt_Query** instead.
+
 To use **Volume_RACMO_Bbox_Query**<br>
-Input a Bounding box as a shapefile. *WAIS_bbox.shp* was used for demo.<br>
+Input a Bounding box to ```aoi_shp```as a shapefile. *WAIS_bbox.shp* was used for demo.<br>
 
 To use **Volume_RACMO_Shp_Query**<br>
-Input a shapefile. *Amery_test_tri.shp* was used for demo. 
+Input a shapefile to ```aoi_shp```. *Amery_test_tri.shp* was used for demo. 
